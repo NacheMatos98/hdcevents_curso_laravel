@@ -1,3 +1,36 @@
+
+# Projeto - HDCEVENTS - LARAVEL
+
+Um site de cadastro de eventos feito em LARAVEL com MYSQL.
+
+- O projeto
+- HOME
+<img src="public/img/1 (6).png"/>
+
+- Criação de Eventos
+<img src="public/img/1 (5).png"/>
+
+- Dashboard 
+<img src="public/img/1 (4).png"/>
+
+- Editando Evento Criado 
+<img src="public/img/1 (3).png"/>
+
+- Página de LOGIN 
+<img src="public/img/1 (2).png"/>
+
+- Página de Cadastro de Usuários
+<img src="public/img/1 (1).png"/>
+
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
